@@ -1,17 +1,10 @@
-import jQuery from 'jquery';
-// window.$ = window.jQuery = jQuery;
-// import lodash from 'lodash';
-// window._ = window.lodash = lodash;
-// require('./directives/placeholders');
-// require('animate.css')
+import jquery from 'jquery'
+import tether from 'tether'
+import bootstrap from 'bootstrap'
+import './scss/base.scss';
 
 import Meta from 'vue-meta'
 Vue.use(Meta)
-
-import tether from 'tether'
-import bootstrap from 'bootstrap-sass'
-// import './scss/base.scss';
-
 import Vue from 'vue'
 import App from './App'
 
