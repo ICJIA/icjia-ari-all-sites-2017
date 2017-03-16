@@ -1,9 +1,6 @@
 <template>
   <div id="app">
-    <!-- <keep-alive>
-      <router-view class="view"></router-view>
-      </keep-alive>
-    <my-footer></my-footer> -->
+
 
 <keep-alive>
                       <router-view class="view"></router-view>
@@ -39,6 +36,6 @@ export default {
 
 <style lang="scss">
 
-@import "./scss/base";
+// @import "./scss/base";
 
 </style>
