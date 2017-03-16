@@ -4,7 +4,7 @@
 The summit will include plenary and breakout sessions, a rollout of the 'Community Involvement Toolkit' project that features 13 ARI innovations from across the state, updates from ARI sites, and time for networking.
 
 
-## Live Site
+## Site
 
 https://ariallsites2017.icjia.cloud
 

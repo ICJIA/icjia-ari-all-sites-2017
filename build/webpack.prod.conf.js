@@ -54,7 +54,7 @@ var webpackConfig = merge(baseWebpackConfig, {
         : config.build.index,
       template: 'index.html',
       bannerDate: moment().tz("America/Chicago").format("dddd, MMMM Do YYYY, h:mm:ss a"),
-      bannerGit: "",
+      bannerGit: "https://github.com/ICJIA/icjia-ari-all-sites-2017",
       bannerTitle: "2017 Adult Redeploy Illinois All-Sites Summit",
       bannerContact: "cja.irc@illinois.gov",
       googleAnalytics: true,
