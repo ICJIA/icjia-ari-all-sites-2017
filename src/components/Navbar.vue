@@ -24,13 +24,13 @@ ARI has grown from five initial pilot sites in early 2011, to the current 20 sit
          </div>
        </div>
      </div>
-     <div class="navbar navbar-light bg-faded" id="navbar">
-       <div class="">
-         <a href="/" class="navbar-brand">
+     <div class="navbar navbar-light bg-faded" id="navbar" style="background-color: #fff;">
+       <div class="text-center">
+         <router-link to="/" class="navbar-brand">
            <!-- <span id="brand-illinois">ICJIA</span>
            <span id="divider">|</span> -->
            <span class="nav-header">Adult Redeploy Illinois | 2017 All-Sites Summit</span>
-           </a>
+         </router-link>
 
 
 
