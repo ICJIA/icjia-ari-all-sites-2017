@@ -7,7 +7,7 @@ import Meta from 'vue-meta'
 Vue.use(Meta)
 import Vue from 'vue'
 import App from './App'
-
+import ga from 'vue-ga'
 import VueRouter from 'vue-router'
 import routes from './routes.js'
 Vue.use(VueRouter)
@@ -20,6 +20,8 @@ const router = new VueRouter({
     base: __dirname,
     routes: routes
 })
+
+ga(router, 'UA-10798495-19')
 
 
 
