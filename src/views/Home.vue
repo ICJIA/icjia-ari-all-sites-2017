@@ -23,6 +23,7 @@
 
        <p class="registration-closed">
          Registration open 3/29/17 to 4/12/17
+         <!-- https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration -->
          <!-- <div class="x-small">Registration open 3/29/17 to 4/12/17</div> -->
 
        </p>

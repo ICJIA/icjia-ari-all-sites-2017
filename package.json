@@ -1,8 +1,8 @@
 {
-  "name": "vue-vc02",
+  "name": "icjia-ari-all-sites-2017",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Chris Schweda <cschweda@gmail.com>",
+  "description": "2017 Adult Redeploy Illinois All-Sites Summit",
+  "author": "Chris Schweda <christopher.schweda@illinois.gov>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
