@@ -138,10 +138,22 @@ May 17 and 18, 2017<br/>
 
 
   </div>
+<div class="row">
+  <div class="col-md-12">
+    <div class="text-center spacerTop50">
+      <p>For more information, contact <a href="lindsey.lapointe@illinois.gov">lindsey.lapointe@illinois.gov</a>,
+      Program Manager, <a href="http://www.icjia.state.il.us/redeploy">Adult Redeploy Illinois</a>.</p>
+    </div>
 
+  </div>
+
+</div>
 </div>
 
 </section>
+
+
+
 
 <my-footer />
 
@@ -190,7 +202,7 @@ May 17 and 18, 2017<br/>
 #section-0 .text-muted {color: #fff !important}
 #section-0 .lead {color: #fff !important}
 #section-1 {background-color: #fff; padding-top: 60px; padding-bottom: 60px;}
-#section-2 {background-color: #eee; padding-top: 60px; padding-bottom: 60px;}
+#section-2 {background-color: #eee; padding-top: 60px; padding-bottom: 50px;}
 .jumbotron {margin-bottom: 0 !important}
 .btn-register {font-weight: 700; text-transform: uppercase;}
 .lead {color: #444; font-weight: 900}
