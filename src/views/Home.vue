@@ -35,23 +35,37 @@
 <div class="row">
   <div class="col-md-5">
     <h2 class="col-head">About the Summit</h2>
-<p>The sixth annual All-Sites Summit will feature training
-  relevant to the breadth of Adult Redeploy Illinois (ARI) programs.
-  This year's summit will focus on peer learning around innovations at ARI sites and community reintegration and partnerships.
-</p><p>The summit will include plenary and breakout sessions,
-a rollout of the <em>Community Involvement Toolkit</em> project that features
-13 ARI innovations from across the state, updates from ARI sites,
-and time for networking.
-Those expected to attend are a spectrum of ARI site stakeholders
- including but not limited to judges, prosecutors, defense attorneys,
- treatment providers, probation staff and supervisors, law enforcement,
- program coordinators, researchers, program partners and policymakers.
- </p><p>Summit content is structured for relevancy to a broad group of stakeholders. In addition to current ARI program representation, planning grantees will also participate and have previously benefited from exposure to current ARI programs and system-wide training.</p>
+
+    <p>The sixth annual All-Sites Summit will feature training relevant to the breadth of
+      Adult Redeploy Illinois (ARI) programs. This year’s summit will
+      focus on peer learning around innovations at ARI sites,
+       community reintegration, and partnerships.</p>
+
+    <p>The summit will include plenary and breakout sessions,
+      a rollout of the “Community Involvement Toolkit” project
+      (featuring 13 ARI innovations from across the state),
+      updates from ARI sites, and time for networking.</p>
+      <p>
+    Those expected to attend are a spectrum of ARI site stakeholders
+    including but not limited to judges, prosecutors,
+    defense attorneys, treatment providers, probation
+    staff and supervisors, law enforcement, program
+    coordinators, researchers, program partners and policymakers.
+    Summit content is structured for relevancy to a broad group of
+    stakeholders. In addition to current ARI program representation,
+     planning grantees will also participate and have previously
+      benefited from exposure to current ARI programs and system-wide training.</p>
 
 
 <h2 class="col-head spacerTop50">Adult Redeploy Illinois</h2>
 <p>Adult Redeploy Illinois is a state initiative providing funding and technical assistance to local jurisdictions to support the diversion of non-violent offenders from prison to more effective and less expensive community-based supervision and services.
-</p><p>ARI sites use grant funds to design and implement local programs that address offenders' risks and needs and leverage their assets (family support, employment) to improve public safety and offender outcomes. ARI has grown from five initial pilot sites in early 2011, to the current 20 sites, implementing 39 programs covering 39 Illinois counties (as of March 2017).
+</p><p>ARI sites use grant funds to design
+  and implement local programs that address
+  offenders' risks and needs and leverage their
+  assets (family support, employment) to improve public
+  safety and offender outcomes. ARI has grown from five
+  initial pilot sites in early 2011, to the current 20 sites
+  implementing 39 programs covering 39 Illinois counties (as of March 2017).
 </p>  </div>
 
   <div class="col-md-7">
@@ -80,7 +94,10 @@ Those expected to attend are a spectrum of ARI site stakeholders
       <h2 class="col-head">Agenda</h2>
 
       <p>The 2017 ARI All-Sites Summit will offer peer
-        learning around innovations at ARI sites and community reintegration and partnerships. Expected topics include community involvement in local ARI programs, the emerging adult population, reducing employment barriers through criminal records relief, restorative justice and more.
+        learning around innovations at ARI sites,
+        community reintegration, and partnerships.
+        Expected topics include community involvement
+        in local ARI programs, veterans courts, reducing employment barriers through criminal records relief, restorative justice, and more.
 </p><p>For more information, contact <a href="lindsey.lapointe@illinois.gov">lindsey.lapointe@illinois.gov</a>,
 Program Manager, <a href="http://www.icjia.state.il.us/redeploy">Adult Redeploy Illinois</a>.</p>
 <div class="text-center">
@@ -118,15 +135,14 @@ May 17 and 18, 2017<br/>
 
 
         <ul>
-          <li>There are no actual registration costs for the event; however, all participants must still register for the Summit. It is suggested that participants confirm participation with their ARI program contact before registering.</li>
+          <li>There are no registration costs for the event; however, all participants must still register for the Summit. For those participants representing ARI programs, it is suggested that you confirm participation with your ARI program contact before registering.</li>
 <li>Mileage, lodging and per diem should be covered in local program budgets.</li>
 <li>Participants must make lodging reservations on their own or through their ARI
   programs.</li>
-<li>The hotel has set aside a block of rooms on Tuesday, May 16th and Wednesday, May 17th.
-   Reservations should be made by Wednesday, April 12th to ensure access
-   to the state rate.</li> Ask for the "Adult Redeploy Illinois" room block when making reservations at 309-662-2020.
-<li>Expected start time is 8:30am on both days,
-  with coffee  and check-in beginning at 7:45am.</li>
+<li>•	The hotel has set aside a block of rooms for the nights of Tuesday, May 16th and
+   Wednesday, May 17th. Reservations should be made by <strong>Wednesday, April 12th</strong> to ensure access to the state rate.
+  Ask for the "Adult Redeploy Illinois" room block when making reservations at 309-662-2020.</li>
+<li>Expected start time is 8:30am on both days, with coffee and check-in beginning at 7:45am. </li>
 <li>Morning coffee and light pastries will be provided.</li>
 <li>The Summit will conclude about 4:30pm on Thursday, May 18th.</li>
 </ul>
