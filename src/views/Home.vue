@@ -147,10 +147,19 @@ May 17 and 18, 2017<br/>
 
 
         <ul>
-          <li>There are no registration costs for the event; however, all participants must still register for the Summit. For those participants representing ARI programs, it is suggested that you confirm participation with your ARI program contact before registering.</li>
-<li>Mileage, lodging and per diem should be covered in local program budgets.</li>
-<li>Participants must make lodging reservations on their own or through their ARI
-  programs.</li>
+          <li>There are no registration costs for the event; however,
+            all participants must still register for the Summit.
+            For those participants representing ARI programs,
+             it is suggested that you confirm participation with your
+             ARI program contact before registering.</li>
+             <li>For ARI sites, all travel costs
+                (e.g., mileage, lodging and per diem)
+                should be covered in local program budgets.</li>
+            <li>For interested counties and ARI partners, limited
+              travel funds may be available. Please make inquiries
+               to <a href="mailto: lindsey.lapointe@illinois.gov">lindsey.lapointe@illinois.gov</a> </li>
+            <li>Participants must make lodging reservations on their own or through their ARI programs.</li>
+
 <li>The hotel has set aside a block of rooms for the nights of Tuesday, May 16th and
    Wednesday, May 17th. Reservations should be made by <strong>Wednesday, April 12th</strong> to ensure access to the state rate.
   Ask for the "Adult Redeploy Illinois" room block when making reservations at 309-662-2020.</li>
