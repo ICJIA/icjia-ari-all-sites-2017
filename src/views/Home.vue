@@ -19,14 +19,16 @@
 
 
 
+             <a style="margin-top: 25px" href="https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration" class="btn btn-primary">Register Now!</a>
 
-
+             <!-- <button class="btn btn-primary" v-scroll-to="'#section-2'" style="margin-top: 25px;">Register Now!</button> -->
        <p class="registration-closed">
-         Registration open 3/29/17 to 4/12/17
-         <!-- https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration -->
+         Registration open 3/21/17 to 4/12/17
+       </p>
+
          <!-- <div class="x-small">Registration open 3/29/17 to 4/12/17</div> -->
 
-       </p>
+       <!-- </p> -->
      </div>
    </section>
 
@@ -35,6 +37,7 @@
 <div class="row">
   <div class="col-md-5">
     <h2 class="col-head">About the Summit</h2>
+
 
     <p>The sixth annual All-Sites Summit will feature training relevant to the breadth of
       Adult Redeploy Illinois (ARI) programs. This year’s summit will
@@ -45,16 +48,17 @@
       a rollout of the “Community Involvement Toolkit” project
       (featuring 13 ARI innovations from across the state),
       updates from ARI sites, and time for networking.</p>
-      <p>
-    Those expected to attend are a spectrum of ARI site stakeholders
-    including but not limited to judges, prosecutors,
-    defense attorneys, treatment providers, probation
-    staff and supervisors, law enforcement, program
-    coordinators, researchers, program partners and policymakers.
-    Summit content is structured for relevancy to a broad group of
-    stakeholders. In addition to current ARI program representation,
-     planning grantees will also participate and have previously
-      benefited from exposure to current ARI programs and system-wide training.</p>
+      <p>Those expected to attend are a spectrum of ARI site
+  stakeholders including but not limited to judges,
+  prosecutors, defense attorneys, probation staff and
+  supervisors, law enforcement, program coordinators,
+  researchers, program partners, and policymakers.</p>
+  <p>
+  Summit content is structured for relevancy to a broad
+   group of stakeholders. In addition to current ARI program
+   representation, planning grantees and interested jurisdictions
+   can  participate and have previously benefited from exposure
+    to current ARI programs and system-wide training.</p>
 
 
 <h2 class="col-head spacerTop50">Adult Redeploy Illinois</h2>
@@ -93,6 +97,8 @@
 
       <h2 class="col-head">Agenda</h2>
 
+
+
       <p>The 2017 ARI All-Sites Summit will offer peer
         learning around innovations at ARI sites,
         community reintegration, and partnerships.
@@ -124,10 +130,16 @@ May 17 and 18, 2017<br/>
   Hotel information&nbsp;&raquo;</a>
   <br/>
 
-
-<button class="btn btn-secondary btn-register spacerTop30" disabled>
+<!-- https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration -->
+<!-- <button class="btn btn-secondary btn-register spacerTop30" disabled>
  REGISTRATION OPEN 3/29/17 TO 4/12/17
- </button>
+ </button> -->
+ <a style="margin-top: 25px" href="https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration" class="btn btn-primary">Register Now!</a>
+
+ <p class="registration-closed">
+   Registration open 3/21/17 to 4/12/17
+ </p>
+
 </div>
 </p>
 </div>
@@ -228,9 +240,9 @@ May 17 and 18, 2017<br/>
 .spacerTop40 {margin-top: 40px;}
 .spacerTop50 {margin-top: 50px;}
 .x-small {font-size: 12px; font-weight: 900; color: #888; text-transform: uppercase}
-.registration-closed {font-weight: 900; margin-top: 60px; text-transform: uppercase;}
+.registration-closed {font-weight: 900; margin-top: 30px; font-size: 14px; text-transform: uppercase;}
 .map-container {}
-.map-container img {margin-top: 50px; width: 500px;}
+.map-container img {margin-top: 50px; width: 550px;}
 .col-head {padding-bottom: 10px; border-bottom: 1px solid #ccc; margin-bottom: 20px}
 .coming-soon {margin-top: 50px;}
 .hotel-info {margin-top: 50px; margin-bottom: 50px;}
