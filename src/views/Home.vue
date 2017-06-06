@@ -79,7 +79,7 @@
   <div class="col-md-7">
     <div class="text-center map-container">
       <h2 class="col-head">Adult Redeploy Illinois SFY2017 Sites</h2>
-    <img src="/static/img/ARIJanuary 2017-min.png" alt="Adult Redeploy Illinois SFY2017 Sites">
+    <img src="/static/img/ARIJanuary 2017-min.png" class="img-fluid" alt="Adult Redeploy Illinois SFY2017 Sites">
   </div>
   </div>
 
