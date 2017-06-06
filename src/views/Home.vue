@@ -1,6 +1,6 @@
 <template>
 <div>
-<navbar />
+
 
 
 <section class="jumbotron text-center" id="section-0">
