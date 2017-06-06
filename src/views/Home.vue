@@ -19,12 +19,10 @@
 
 
 
-             <a style="margin-top: 25px" href="https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration" class="btn btn-primary">Register Now!</a>
+             <a style="margin-top: 25px; font-size:12px; font-weight: 700; text-transform: uppercase;" href="#" class="btn btn-primary">Presentations, Power Points & Resources</a>
 
              <!-- <button class="btn btn-primary" v-scroll-to="'#section-2'" style="margin-top: 25px;">Register Now!</button> -->
-       <p class="registration-closed">
-         Registration open 3/21/17 to 4/12/17
-       </p>
+
 
          <!-- <div class="x-small">Registration open 3/29/17 to 4/12/17</div> -->
 
@@ -95,7 +93,7 @@
   <div class="row">
     <div class="col-md-6">
 
-      <h2 class="col-head">Agenda</h2>
+      <h2 class="col-head">Presentations, Power Points & Resources</h2>
 
 
 
@@ -104,10 +102,31 @@
         community reintegration, and partnerships.
         Expected topics include community involvement
         in local ARI programs, veterans courts, reducing employment barriers through criminal records relief, restorative justice, and more.
-</p><p>For more information, contact <a href="lindsey.lapointe@illinois.gov">lindsey.lapointe@illinois.gov</a>,
-Program Manager, <a href="http://www.icjia.state.il.us/redeploy">Adult Redeploy Illinois</a>.</p>
-<div class="text-center">
-<h5 class="text-muted coming-soon">Agenda, Summit resources, and Power Points coming soon.</h5>
+</p>
+
+<!-- <p>For more information, contact <a href="lindsey.lapointe@illinois.gov">lindsey.lapointe@illinois.gov</a>,
+Program Manager, <a href="http://www.icjia.state.il.us/redeploy">Adult Redeploy Illinois</a>.</p> -->
+
+
+<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
@@ -126,19 +145,15 @@ Program Manager, <a href="http://www.icjia.state.il.us/redeploy">Adult Redeploy 
 Bloomington, IL 61704 <br/>
 May 17 and 18, 2017<br/>
 <div style="margin-top: 15px;">
-<a href="http://www.bloomingtonchateau.com/" class="">
-  Hotel information&nbsp;&raquo;</a>
+<!-- <a href="http://www.bloomingtonchateau.com/" class="">
+  Hotel information&nbsp;&raquo;</a> -->
   <br/>
 
 <!-- https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration -->
 <!-- <button class="btn btn-secondary btn-register spacerTop30" disabled>
  REGISTRATION OPEN 3/29/17 TO 4/12/17
  </button> -->
- <a style="margin-top: 25px" href="https://www.surveygizmo.com/s3/3433332/2017-Adult-Redeploy-Illinois-All-Sites-Summit-Registration" class="btn btn-primary">Register Now!</a>
 
- <p class="registration-closed">
-   Registration open 3/21/17 to 4/12/17
- </p>
 
 </div>
 </p>
