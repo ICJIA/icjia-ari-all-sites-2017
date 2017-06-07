@@ -77,7 +77,7 @@ ARI has grown from five initial pilot sites in early 2011, to the current 20 sit
          <div class="navbar navbar-light bg-faded">
            <div class="container d-flex justify-content-between">
 
-             <a href="#" class="navbar-brand">ADULT REDEPLOY ILLINOIS</a>
+             <a href="#" class="navbar-brand" style="font-weight: 900">ADULT REDEPLOY ILLINOIS</a>
 
              <button class="navbar-toggler hamburger hamburger--spin" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                <span class="hamburger-box" >
