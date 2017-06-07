@@ -21,7 +21,7 @@
 
 
 
-             <a style="margin-top: 25px; font-size:12px; font-weight: 700; text-transform: uppercase;" href="#section-2" class="btn btn-primary">Presentations, Power Points & Resources</a>
+             <a style="margin-top: 25px; font-size:12px; font-weight: 700; text-transform: uppercase;" href="#section-2" class="btn btn-primary">Presentations & Resources&nbsp;&nbsp;<i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
 
              <!-- <button class="btn btn-primary" v-scroll-to="'#section-2'" style="margin-top: 25px;">Register Now!</button> -->
 
