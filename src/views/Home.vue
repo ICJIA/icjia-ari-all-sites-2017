@@ -1,8 +1,10 @@
 <template>
 <div>
 
-
+<div class="hidden-sm-down">
 <navbar />
+</div>
+
 <section class="jumbotron text-center" id="section-0" style="margin-top: -5px">
      <div class="container">
        <h1 class="jumbotron-heading">2017 Adult Redeploy Illinois All-Sites Summit </h1>
