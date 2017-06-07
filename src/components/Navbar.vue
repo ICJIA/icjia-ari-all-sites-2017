@@ -2,7 +2,7 @@
   <div id="myNav">
 
     <!-- TEMPLATE START -->
-    <div class="collapse bg-about-icjia" id="navbarHeader">
+    <!-- <div class="collapse bg-about-icjia" id="navbarHeader">
        <div class="container">
          <div class="row">
            <div class="col-sm-8 py-4">
@@ -27,8 +27,7 @@ ARI has grown from five initial pilot sites in early 2011, to the current 20 sit
      <div class="navbar navbar-light bg-faded" id="navbar" style="background-color: #fff;">
        <div class="text-center">
          <router-link to="/" class="navbar-brand">
-           <!-- <span id="brand-illinois">ICJIA</span>
-           <span id="divider">|</span> -->
+
            <span class="nav-header">Adult Redeploy Illinois | 2017 All-Sites Summit</span>
          </router-link>
 
@@ -47,21 +46,46 @@ ARI has grown from five initial pilot sites in early 2011, to the current 20 sit
            </span>
          </button>
 
-         <!-- <span class="navbar-text">
-           <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-         </span>
 
-         <span class="navbar-text">
-            <a class="nav-link" href="#">Link 1 </a>
-         </span>
-
-         <span class="navbar-text">
-            <a class="nav-link" href="#">Link 2 </a>
-         </span> -->
        </div>
-     </div>
+     </div> -->
 
 
+
+     <div class="collapse bg-inverse" id="navbarHeader">
+       <div class="container">
+         <div class="row">
+           <div class="col-sm-8 py-4">
+
+              <h4 class="text-white">About Adult Redeploy Illinois</h4>
+<p class="text-muted">
+  <a href="http://www.icjia.state.il.us/redeploy">Adult Redeploy Illinois</a> is a state initiative providing funding and technical assistance to local jurisdictions to support the diversion of non-violent offenders from prison to more effective and less expensive community-based supervision and services.
+ARI has grown from five initial pilot sites in early 2011, to the current 20 sites, implementing 39 programs covering 39 Illinois counties (as of March 2017).
+
+</p>
+           </div>
+           <div class="col-sm-4 py-4">
+             <h4 class="text-white">Contact</h4>
+             <ul class="list-unstyled">
+               <li><a href="http://www.icjia.state.il.us/redeploy" class="text-white">Visit ARI website</a></li>
+               <li><a href="mailto: cja.irc@illinois.gov" class="text-white">Send email</a></li>
+             </ul>
+           </div>
+         </div>
+       </div>
+         </div>
+         <div class="navbar navbar-light bg-faded">
+           <div class="container d-flex justify-content-between">
+
+             <a href="#" class="navbar-brand">Adult Redeploy Illinois</a>
+
+             <button class="navbar-toggler hamburger hamburger--spin" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="hamburger-box" >
+                 <span class="hamburger-inner"></span>
+               </span>
+             </button>
+           </div>
+         </div>
 
 
 
@@ -104,8 +128,20 @@ export default {
 <style scoped>
 a {color: #fff;}
 a:hover {color: #aaa}
-.hamburger {margin-top: -9px}
+.hamburger {margin-top: -12px}
 .nav-header {font-weight: 900; text-transform: uppercase; color: #444}
+
+.hamburger-box {
+
+    height: 6px;
+
+}
+
+.navbar {
+     -webkit-box-shadow: none !important;
+    -moz-box-shadow: none  !important;
+    box-shadow: none !important;
+}
 
 </style>
 s
