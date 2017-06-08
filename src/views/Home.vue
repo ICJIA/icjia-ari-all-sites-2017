@@ -387,7 +387,7 @@ May 17 and 18, 2017<br/>
 
 
 <div class="card">
-  <h3 class="card-header">Sites Updates</h3>
+  <h3 class="card-header">Site Updates</h3>
   <div class="card-block">
     <ul>
     <li><p>ARI sites and ICJIA Staff</p></li>
