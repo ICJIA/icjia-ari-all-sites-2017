@@ -19,9 +19,14 @@
            <p class="text-muted">
              </p>
 
+             <div class="btn-group" role="group" aria-label="Navigation" style="margin-top: 25px">
+  <a  class="btn btn-primary" href="#section-2">Presentations</a>
+<div style="width: 1px"></div>
+  <a class="btn btn-primary" href="#section-3">Audio Recordings</a>
+</div>
 
 
-             <a style="margin-top: 25px; font-size:12px; font-weight: 700; text-transform: uppercase;" href="#section-2" class="btn btn-primary">Presentations & Resources&nbsp;&nbsp;<i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+
 
              <!-- <button class="btn btn-primary" v-scroll-to="'#section-2'" style="margin-top: 25px;">Register Now!</button> -->
 
@@ -423,6 +428,186 @@ May 17 and 18, 2017<br/>
 
 
 
+<section id="section-3">
+  <div class="container">
+
+  <div class="row">
+    <div class="col-md-12">
+      <div class="text-center">
+        <h2 class="col-head">Summit Audio Recordings</h2>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="row">
+    <div class="col-md-6">
+
+      <h3 style="color: #666; margin-top: 20px">Day 1</h3>
+
+      <div class="card" style="margin-top: 40px">
+  <div class="card-header">
+    <h5>Opening Remarks & Loyola Presentation</h5>
+  </div>
+  <div class="card-block">
+
+    <div class="soundcloud">
+    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325754828&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+  </div>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card-header">
+      <h5>Bridges to Justice:  A Community Engagement Toolkit for Adult Diversion Programs & Adult Redeploy Illinois Site Updates – Block #1</h5>
+  </div>
+  <div class="card-block">
+    <div class="soundcloud">
+  <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326310326&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+</div>
+  </div>
+</div>
+
+
+
+
+<div class="card">
+  <div class="card-header">
+    <h5>Adult Redeploy Illinois Site Updates – Block #2</h5>
+  </div>
+  <div class="card-block">
+    <div class="soundcloud">
+    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/326754732&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+  </div>
+  </div>
+</div>
+
+
+
+<div class="card">
+  <div class="card-header">
+      <h5>Restorative Justice in Action:  Not just for Juveniles</h5>
+  </div>
+  <div class="card-block">
+    <div class="soundcloud">
+    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327009331&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+  </div>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card-header">
+      <h5>Veterans Courts and Highlights of Veteran Mentors Program</h5>
+  </div>
+  <div class="card-block">
+    <div class="soundcloud">
+          <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327013897&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+      <h5>Gender Responsive Justice Programming</h5>
+  </div>
+  <div class="card-block">
+    <div class="soundcloud">
+          <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327017435&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+    </div>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card-header">
+  <h5>Key Take-aways from Day 1</h5>
+  </div>
+  <div class="card-block">
+    <div class="soundcloud">
+          <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327018775&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+    </div>
+  </div>
+</div>
+
+
+    </div>
+    <div class="col-md-6">
+
+        <h3 style="color: #666; margin-top: 20px">Day 2</h3>
+
+    <div class="card" style="margin-top: 40px">
+    <div class="card-header">
+      <h5>Opening Remarks</h5>
+    </div>
+    <div class="card-block">
+
+      <div class="soundcloud">
+      <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327139929&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+    </div>
+    </div>
+  </div>
+
+
+  <div class="card">
+  <div class="card-header">
+    <h5>Adult Redeploy Illinois Site Updates – Block 3</h5>
+  </div>
+  <div class="card-block">
+
+    <div class="soundcloud">
+    <iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327146824&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+  </div>
+  </div>
+</div>
+
+
+
+<div class="card">
+<div class="card-header">
+  <h5>Navigating Criminal Records Relief in Illinois</h5>
+</div>
+<div class="card-block">
+
+  <div class="soundcloud">
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327160905&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="card-header">
+  <h5>Policy and Public Opinion: The Impact of ARI on Criminal Justice Reform in Illinois & Summary Remarks</h5>
+</div>
+<div class="card-block">
+
+  <div class="soundcloud">
+<iframe width="100%" height="20" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327164152&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true"></iframe>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+    </div>
+  </div>
+
+
+
+
+
+
+</div>
+</section>
+
+
+
 
 <my-footer />
 
@@ -510,6 +695,7 @@ $('a[href*="#"]')
 #section-0 .lead {color: #fff !important}
 #section-1 {background-color: #fff; padding-top: 60px; padding-bottom: 60px;}
 #section-2 {background-color: #eee; padding-top: 60px; padding-bottom: 50px;}
+#section-3 {background-color: #fff; padding-top: 60px; padding-bottom: 50px;}
 .jumbotron {margin-bottom: 0 !important}
 .btn-register {font-weight: 700; text-transform: uppercase;}
 .lead {color: #444; font-weight: 900}
@@ -534,6 +720,7 @@ $('a[href*="#"]')
 
 border-radius: 0rem important;
 }
+
 
 
 
